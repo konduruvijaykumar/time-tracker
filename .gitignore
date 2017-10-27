@@ -8,3 +8,6 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .idea
 *.iml
+
+# Added by me, for ignoring .doc files to be checked in
+*.doc*
