@@ -8,3 +8,5 @@ This purpose of this project is to show how to use Maven and Jenkins together.
 Updates, 
 
 and more updates
+
+This project is part of training in udemy cource - Jenkins Bootcamp: Fully Automate Builds Through Deployment
